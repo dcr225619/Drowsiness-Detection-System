@@ -4,7 +4,7 @@
 
 Install the required dependencies with: pip install -r requirements.txt --upgrade.
 
-Note that you might need to download **cmake** (https://cmake.org/download/) to build dlib.
+You might need to download **cmake** (https://cmake.org/download/) to build dlib.
 
 ### Download Dataset and Pretrained Model
 
@@ -14,3 +14,18 @@ Dataset2: https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-datase
 
 Facial Landmark Detection Model (shape_predictor_68_face_landmarks.dat): https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat
 
+Set the dataset path as the following:
+
+|——Drowsiness-Detection-System
+  |——Driver Drowsiness Dataset1
+    |——0 FaceImages
+      |——Active Subjects
+      |——Fatigue Subjects
+    |——Active Subjects (empty folder created for CNN.ipynb)
+    |——Fatigue Subjects (empty folder created for CNN.ipynb)
+  |——Driver Drowsiness Dataset2
+      |——Active Subjects
+      |——Fatigue Subjects
+      |——masked (empty folder created for CNN_2.ipynb)
+        |——Active Subjects (empty folder created for CNN_2.ipynb)
+        |——Fatigue Subjects (empty folder created for CNN_2.ipynb)
