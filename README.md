@@ -6,7 +6,7 @@ Install the required dependencies with: pip install -r requirements.txt --upgrad
 
 You might need to download **cmake** (https://cmake.org/download/) to build dlib.
 
-### Download Dataset and Pretrained Model
+## Download Dataset and Pretrained Model
 
 Dataset1: https://www.kaggle.com/datasets/rakibuleceruet/drowsiness-prediction-dataset/data
 
@@ -34,9 +34,7 @@ Drowsiness-Detection-System/
 │       └── Fatigue Subjects (empty folder created for CNN_2.ipynb)/
 ```
 
-
-
-### Train CNN models
+## Train CNN models
 
 ```
 run CNN.ipynb
@@ -45,7 +43,7 @@ run CNN_2.ipynb
 ```
 
 
-### Run Detection System
+## Run Detection System
 
 This may require camera permissions.
 
