@@ -17,15 +17,27 @@ Facial Landmark Detection Model (shape_predictor_68_face_landmarks.dat): https:/
 Set the dataset path as the following:
 
 |——Drowsiness-Detection-System
+
   |——Driver Drowsiness Dataset1
+  
     |——0 FaceImages
+    
       |——Active Subjects
+      
       |——Fatigue Subjects
+      
     |——Active Subjects (empty folder created for CNN.ipynb)
+    
     |——Fatigue Subjects (empty folder created for CNN.ipynb)
+    
   |——Driver Drowsiness Dataset2
+  
       |——Active Subjects
+      
       |——Fatigue Subjects
+
       |——masked (empty folder created for CNN_2.ipynb)
+      
         |——Active Subjects (empty folder created for CNN_2.ipynb)
+        
         |——Fatigue Subjects (empty folder created for CNN_2.ipynb)
