@@ -4,7 +4,7 @@
 
 Install the required dependencies with: pip install -r requirements.txt --upgrade.
 
-Note that you might need to download \textbf{cmake} (https://cmake.org/download/) to build dlib.
+Note that you might need to download **cmake** (https://cmake.org/download/) to build dlib.
 
 ### Download Dataset and Pretrained Model
 
