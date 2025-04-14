@@ -1,0 +1,13 @@
+pandas
+numpy
+cv2
+numpy
+mediapipe
+os
+matplotlib.pyplot
+scipy
+imutils
+dlib
+cv2
+tensorflow
+playsound
