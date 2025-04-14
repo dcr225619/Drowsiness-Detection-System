@@ -16,7 +16,7 @@ Facial Landmark Detection Model (shape_predictor_68_face_landmarks.dat): https:/
 
 Set the dataset path as the following:
 <pre>
-'''
+```
 Drowsiness-Detection-System/
 │
 ├── Driver Drowsiness Dataset1/
@@ -32,14 +32,17 @@ Drowsiness-Detection-System/
 │   └── masked (empty folder created for CNN_2.ipynb)/
 │       ├── Active Subjects (empty folder created for CNN_2.ipynb)/
 │       └── Fatigue Subjects (empty folder created for CNN_2.ipynb)/
-'''
+```
 <pre>
+
 
 ### Train CNN models
 <pre>
+```
 run CNN.ipynb
 
 run CNN_2.ipynb
+```
 <pre>
 
 ### Run Detection System
@@ -47,7 +50,9 @@ run CNN_2.ipynb
 This may require camera permissions.
 
 <pre>
+```
 run CNN+EAR.ipynb
 
 run CNN+EAR2.ipynb
+```
 <pre>
