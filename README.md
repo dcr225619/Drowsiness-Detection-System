@@ -49,6 +49,12 @@ This may require camera permissions.
 
 
 ```
+run CNN_only.ipynb
+
+run EAR_only.ipynb
+
+run EAR2_only.ipynb
+
 run CNN+EAR.ipynb
 
 run CNN+EAR2.ipynb
